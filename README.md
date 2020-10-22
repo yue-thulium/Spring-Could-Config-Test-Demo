@@ -4,5 +4,5 @@
 
 测试 Spring Cloud Config 所用
 
-感谢 风的姿态 的博客
+感谢 风的姿态 的[博客](https://www.cnblogs.com/fengzheng/p/11242128.html)
 
